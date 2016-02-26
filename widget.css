@@ -1,1 +1,17 @@
-
+body {
+	background-color: black;
+}
+#container {
+	margin: 5% 5%;
+	display: inline-block;
+}
+#main {
+	width: 450px;
+	height: 450px;
+}
+.button {
+	width: 20%;
+	border: 1px solid #F3F315;
+	border-radius: 15%;
+	background-color: black;
+}
