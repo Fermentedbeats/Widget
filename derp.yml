@@ -1,0 +1,2 @@
+administrative-shell-ssh-access: |
+  SSH access allows you to run the {{ site.data.variables.product.prodname_enterprise }} command line utilities and is useful for troubleshooting, running backups with the {{ site.data.variables.product.prodname_enterprise }} Backup Utilities, and configuring replication.
