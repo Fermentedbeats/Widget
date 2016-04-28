@@ -1,4 +1,4 @@
 # Widget
 Home of the widgets
 
-intro: {{ site.derp.administrative-shell-ssh-access }}
+administrative-shell-ssh-access: {{ site.derp.administrative-shell-ssh-access }}
