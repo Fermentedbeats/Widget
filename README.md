@@ -1,3 +1,8 @@
 # Widget
 Home of the widgets
-new
+
+
+administrative-shell-ssh-access: {{ site.derp.administrative-shell-ssh-access }}
+
+
+HELLOO
